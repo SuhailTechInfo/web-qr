@@ -1,0 +1,26 @@
+{
+    "name": "web-qr",
+    "version": "0.0.1",
+    "description": "A multi functional whatsapp bot Web Qr Scanner.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "keywords": ["baileysQr","MdLogin", "Suhail-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
+    "author": "SuhailTechInfo",
+    "license": "MIT",
+    "dependencies": {
+      "@hapi/boom": "^10.0.1",
+      "@whiskeysockets/baileys": "6.5.0",
+      "fs-extra": "latest",
+      "pino": "^8.1.0",
+      "express": "^4.18.2",
+      "qrcode": "latest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.dev/SuhailTechInfo/web-qr.git"
+    }
+  }
+  
