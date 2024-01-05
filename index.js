@@ -74,7 +74,7 @@ if (fs.existsSync('./auth_info_baileys')) {
          // res.json({status:true,Scan_Id })
           console.log(`
 ====================  SESSION ID  ==========================                   
-SESSION-ID ==> ${c}
+SESSION-ID ==> ${Scan_Id}
 -------------------   SESSION CLOSED   -----------------------
 `)
 
